@@ -26,7 +26,7 @@ A chrome extension that helps you track and manage your business leads.
 3. Locate the leads track chrome extension, click on it to get started.
 4. If you want to pin leads tracker extension to the chrome toolbar, click on the pin icon next to the extension.
 5. Click on the 'save tab' to save the active tab url.
-6. Click on 'save input' to save the your input. 
+6. Click on 'save input' to save your input. 
 7. All saved tabs and inputs can be deleted. 
 
 enjoy ! 🎉
